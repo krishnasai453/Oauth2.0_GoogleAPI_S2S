@@ -23,7 +23,7 @@
 
 > clone the repository
 
-git clone git clone https://github.com/krishnasqor/Oauth2.0_GoogleAPI_S2S.git
+git clone git clone https://github.com/krishnasai453/Oauth2.0_GoogleAPI_S2S.git
 
 > In the file googleoauth2_s2s.erl change the filename to your private key file name in jwt_create() function
 
